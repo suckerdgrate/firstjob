@@ -1,0 +1,115 @@
+body {
+  line-height: 1.6;
+  background-color: #DDDDDD;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+
+}
+
+a {
+  color: green;
+  margin: 10px 20px;
+  padding: 20px 0;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+.dav {
+  text-align: right;
+  margin: 10px 20px;
+  padding: 20px 0;
+  font-weight: bold;
+}
+
+
+h1 {
+  font-weight: bold;
+  color: #30475E;
+}
+
+ul {
+  list-style: disc;
+}
+
+h2 {
+  top: 1.6rem;
+  margin-top: 1rem;
+  margin-bottom: 18px;
+}
+
+h5 {
+  text-align: center;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.top {
+  margin-left: 950px;
+}
+
+.pro {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.aside {
+  font-weight: normal;
+  margin-left: 1000px;
+  margin-top: 10px;
+  width: 300px
+
+}
+
+
+.top1 {
+  text-align: center;
+  font-size: 18px;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.buttom {
+  font-size: 1rem;
+  text-align:center;
+  text-decoration: none;
+  font-size: 1rem;
+  padding-right: 20px;
+  margin: 20px;
+}
+
+
+.copy {
+  text-align: center;
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
